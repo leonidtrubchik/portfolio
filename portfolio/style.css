@@ -1,0 +1,17 @@
+body {
+    box-sizing: border-box;
+    margin: 0;
+    width: 100%;
+
+}
+
+.container {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding: 0 20px;
+}
+
+.header-container {
+    display: flex;
+    background-image: url(./assets/img/header-bg.jpg);
+}
